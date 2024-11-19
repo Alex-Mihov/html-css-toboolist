@@ -1,0 +1,29 @@
+/* regole generali pagina */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box
+}
+
+body {
+    background-color: #f6f8fa;
+}
+
+/* regole header */
+header {
+    background-color: white;
+}
+
+header img {
+    width: 70px;
+    line-height: 100%;
+    vertical-align: middle;
+    margin: 10px 0 10px 20px
+}
+
+header h1 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 60px;
+    display: inline-block;
+    vertical-align: middle;
+}
