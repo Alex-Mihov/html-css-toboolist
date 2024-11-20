@@ -103,22 +103,22 @@ label {
     background-color: #4ca8e7;
 }
 
-#goal-label {
+.goal-label {
     background-color: #9c71e0;
 }
 
-#rc-label {
+.rc-label {
     background-color: #62c0a5;
 }
 
-#mb-label {
+.mb-label {
     background-color: #f39e39;
 }
 
-#ws-label {
+.ws-label {
     background-color: #d961a7;
 }
 
-#sales-label {
+.sales-label {
     background-color: #b0c92b;
 }
